@@ -14,6 +14,8 @@ gsap.registerPlugin(useGSAP, ScrollTrigger);
 
 type Props = {};
 
+const FLOAT_SPEED = 1.5;
+
 export default function Scene({}: Props) {
   const isReady = useStore((state) => state.isReady);
 
@@ -27,8 +29,6 @@ export default function Scene({}: Props) {
   const can2GroupRef = useRef<Group>(null);
 
   const groupRef = useRef<Group>(null);
-
-  const FLOAT_SPEED = 1.5;
 
   useGSAP(() => {
     if (

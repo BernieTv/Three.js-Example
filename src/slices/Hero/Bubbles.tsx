@@ -57,8 +57,10 @@ export function Bubbles({
     }
 
     mesh.instanceMatrix.needsUpdate = true;
+
     return () => {
       mesh.geometry.dispose();
+
       (mesh.material as THREE.Material).dispose();
     };
   }, [count, minSpeed, maxSpeed]);
