@@ -11,7 +11,7 @@ This project showcases an interactive and visually striking landing page for a f
 - **react-three-fiber** for integrating 3D graphics with **Three.js** in a React environment 🌍.
 - **Tailwind CSS** for modern, responsive styling 💅.
 - **TypeScript** for enhanced development with static typing ⚙️.
-- Hosted on **Vercel** for seamless deployment and scalability 📡.
+- Hosted on **Vercel** 📡.
 
 ## Technologies Used 🧑‍💻
 - **Next.js 14** 🚀
