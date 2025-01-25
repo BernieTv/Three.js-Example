@@ -21,5 +21,3 @@ This project showcases an interactive and visually striking landing page for a f
 - **Tailwind CSS** 💅
 - **TypeScript** 📝
 - **Vercel** 🌍
-
-This project serves as a sophisticated, high-performance landing page, perfect for showcasing innovative product designs and interactive web experiences. 🌟
